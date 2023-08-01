@@ -1,4 +1,5 @@
 EXCEL-POWERBI-PROJECT
+
 HELLO READER/VIEWER/HIRING MANAGER
 
 The "Profit and Sales Analysis Dashboard" Microsoft Excel project involved cleaning and preparing the dataset by removing blanks, nulls,
